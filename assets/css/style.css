@@ -50,6 +50,10 @@ p {
     font-size: 16px;
 }
 
+img[src="digital-marketing-meeting.jpg"] {
+    visibility: hidden;
+}
+
 .hero {
     height: 200px;
     width: 100%;
