@@ -50,15 +50,11 @@ p {
     font-size: 16px;
 }
 
-img[src="digital-marketing-meeting.jpg"] {
-    visibility: hidden;
-}
-
 .hero {
-    height: 200px;
+    height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("https://static.bc-edx.com/coding/full-stack/01-HTML-Git-CSS/assets/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
